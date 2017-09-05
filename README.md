@@ -1,5 +1,5 @@
 # Reliability-Test-Planning
-Python tool used for planning number of samples needed for testing
+Python function used for planning number of samples needed for testing
 
 **Reliability Test Planning Binomial Method.py:**
   
